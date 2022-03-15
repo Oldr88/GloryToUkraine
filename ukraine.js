@@ -1,1 +1,4 @@
-alert('Glory to Ukraine');
+
+function myFunction() {
+  alert('Glory to Ukraine');
+}
